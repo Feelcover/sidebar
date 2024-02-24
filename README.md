@@ -5,4 +5,4 @@
 Запуск проекта `npm run dev`
 
 
-[Ссылка на просмотр](src/assets/design.mp4)
+[Ссылка на просмотр](https://sidebar-two-tau.vercel.app/)
